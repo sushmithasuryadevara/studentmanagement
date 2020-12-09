@@ -36,6 +36,3 @@ I added two type of users. They are :
 2. Student: They can login using username: student and password: student
 Users can login and  click on a submit button. Upon submit, the app displays the registration form and course form.
 
-## Libraries and tools 🛠
-JQuery, code writer
-
