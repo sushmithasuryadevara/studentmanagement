@@ -2,10 +2,6 @@
 
 Building a simple student management application using PHP 
 
-The codebase focuses on following things:
-- Code structuring, style and comments
-- Added the test case scenario.
-
 # Project Requirements
 Features:
 
